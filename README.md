@@ -10,6 +10,12 @@ This Python script is a basic command-line tool created to manage and store mult
 *   Examples:
       * To save data:    ```python main.py save```
       * To load data:    ```python main.py load```
-      * To list keys:    ```python main.py list```
+      * To list data:    ```python main.py list```
       * To delete data:  ```python main.py delete```
       * To get help:     ```python main.py help```
+
+# Note  
+
+Linux may get an error message that says: "Pyperclip could not find a copy/paste mechanism for your system".
+
+To fix this issue :  ```sudo apt-get install xsel```
