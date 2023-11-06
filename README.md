@@ -1,6 +1,6 @@
 # MultiClipboard
 
-This Python script is a basic command-line tool created to manage and store multiple items on your clipboard, utilizing JSON as the primary storage format. It handles functions such as **saving**, **loading**, **listing**, and **deleting** ClipBoard data.
+This is a basic command-line tool created to manage and store multiple items on your clipboard, utilizing JSON as the primary storage format. It handles functions such as **saving**, **loading**, **listing**, and **deleting** ClipBoard data.
 
 # QuickStart
 * Make sure you have Python installed on your computer. You can download it from the official Python website if it's not already installed: https://www.python.org/downloads/
